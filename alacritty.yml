@@ -37,8 +37,7 @@
   # Window position (changes require restart)
   #
   # Specified in number of pixels.
-  # If the position is not set, the window manager will handle the placement.
-  #position:
+  # If the position is not set, the window manage
   #  x: 0
   #  y: 0
 
@@ -59,7 +58,7 @@
   #     - full: Borders and title bar
   #     - none: Neither borders nor title bar
   #
-  # Values for `decorations` (macOS only):
+  # Values for `decorations`(windows only)
   #     - transparent: Title bar, transparent background and title bar buttons
   #     - buttonless: Title bar, transparent background and no title bar buttons
   #decorations: full
@@ -73,7 +72,7 @@
   # Startup Mode (changes require restart)
   #
   # Values for `startup_mode`:
-  #   - Windowed
+  #   - macos
   #   - Maximized
   #   - Fullscreen
   #
